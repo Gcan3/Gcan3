@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gcan3
 - 👀 I’m interested in basketball, badminton, games, music, exploration
 - 🌱 I’m currently learning c++ (Newbie)
-- 💞️ I’m looking to collaborate on hybrid orograms (mobile & computer)
+- 💞️ I’m looking to collaborate on hybrid programs (mobile & computer)
 - 📫 How to reach me >> fb:SunTo Tinag discord:Jeez#6285
 
 <!---
